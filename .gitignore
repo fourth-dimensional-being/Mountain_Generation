@@ -1,0 +1,11 @@
+# Config files
+.env
+.env.local
+/.vscode
+
+# Large folders
+/node_modules
+/vendor
+
+#build directory
+/build
